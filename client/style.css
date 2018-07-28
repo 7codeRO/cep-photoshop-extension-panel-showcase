@@ -1,0 +1,76 @@
+body {
+    color: #cdd6d6;
+    text-align: center;
+    /*background-color: #585858 !important;*/
+}
+button, textarea, select, input {
+    color: #cdd6d6;
+    border: 2px solid #666666 !important;
+    background: #454545;
+    text-align: center;
+}
+
+button {
+    background: #6c6c6c !important;
+}
+
+button {
+    cursor: pointer;
+}
+
+textarea {
+    width: 100%;
+}
+
+label {
+    text-align: left;
+}
+
+select, input {
+    width: 90% !important;
+}
+
+[disabled] {
+    opacity: 0.3;
+    pointer-events: none;
+}
+
+button.selected, button:active {
+    border-style: inset !important;
+    background-color: #545454 !important;
+}
+
+
+#overlay {
+    left: 0;
+    right: 0;
+    bottom: auto;
+    top: 0;
+    min-height: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+}
+
+.popup {
+    position: relative;
+    z-index: 999999;
+    background: #464646;
+}
+
+i.fa {
+    font-size: 20px;
+}
+
+.fa-exclamation-circle {
+    color: #ffc107;
+}
+
+.fa-cogs {
+    color: #28a745;
+}
+
+.path-select {
+    display: flex;
+    align-items: center;
+}

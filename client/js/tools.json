@@ -1,0 +1,51 @@
+[
+	{
+		"stringID": "marqueeRectTool",
+		"toolTip": "Rectangular Marquee Tool"
+	},
+
+	{
+		"stringID": "eyedropperTool",
+		"toolTip": "Eyedropper Tool"
+	},
+
+	{
+		"stringID": "spotHealingBrushTool",
+		"toolTip": "Spot Healing Brush Tool"
+	},
+	{
+		"stringID": "magicStampTool",
+		"toolTip": "Healing Brush Tool"
+	},
+	{
+		"stringID": "patchSelection",
+		"toolTip": "Patch Tool"
+	},
+
+	{
+		"stringID": "cloneStampTool",
+		"toolTip": "Clone Stamp Tool"
+	},
+
+	{
+		"stringID": "blurTool",
+		"toolTip": "Blur Tool"
+	},
+	{
+		"stringID": "sharpenTool",
+		"toolTip": "Sharpen Tool"
+	},
+	{
+		"stringID": "smudgeTool",
+		"toolTip": "Smudge Tool"
+	},
+	{
+		"stringID": "dodgeTool",
+		"toolTip": "Dodge Tool"
+	},
+	{
+		"stringID": "burnInTool",
+		"toolTip": "Burn Tool"
+	}
+
+]
